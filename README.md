@@ -7,16 +7,6 @@
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
-![](https://github-readme-stats.vercel.app/api?username=arielxyz&show_icons=true&theme=github_dark)
-### Hi World 👋
-
-**My name is Ariel Saputra**
-</br>
-
-# My statistic in GitHub
-
-![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-
 ![](https://github-readme-stats.vercel.app/api?username=arielxzy&show_icons=true&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arielxzy&theme=github_dark)
 
